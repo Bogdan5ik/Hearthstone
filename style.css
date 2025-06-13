@@ -1,0 +1,45 @@
+.enemy{
+			margin-top: 100px;
+			text-align: center;
+			height: 250px;
+			transition: all 1.5s;
+		}
+		.player_img{
+			width:200px;
+			height: 300px;
+			margin-left: auto;
+			margin-right: auto;
+			background-size: 100% 100%;
+			position: relative;
+			transition: 1s;
+
+		}
+		.enemy_img{
+			width:200px;
+			height: 300px;
+			margin-left: auto;
+			margin-right: auto;
+			background-size: 100% 100%;
+			position: relative;
+			transition: 1s;
+
+		}
+		.player{
+			text-align: center;
+			height: 250px;
+			margin-top: 150px;
+			transition: all 1.5s;
+
+		}
+		.player_property{
+			position: absolute;
+			top:80%;
+
+
+		}
+		.enemy_name{
+			color: white; font-family: Arial;
+		}
+		.player_name{
+			color: white; font-family: Arial
+		}
